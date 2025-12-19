@@ -25,7 +25,7 @@
 ### 🧠 About Me  
 - 🚀 Building **AI that feels alive**  
 - 💻 Full-Stack Developer + AI Engineer in progress  
-- 🏆 Goal: *State topper & world-class innovator*  
+- 🏆 Goal: *world-class innovator & stay discipline*  
 - ⚡ Fun fact: *I can explain Kirchhoff’s laws while deploying a chatbot*  
 
 ---
