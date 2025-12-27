@@ -46,10 +46,10 @@
 ### 🚀 Key Projects
 | Project | What it does | Built With |
 |---------|-------------|------|
-| 🤖 [**NewsMax**](#) | A news website Using NewsData.io . | HTML , CSS , JS |
+| 🤖 [**MaxNews**](https://ghoshswapnadip7-coder.github.io/MaxNews/) | A news website Using NewsData.io . | HTML , CSS , JS |
 | 📈 [**Market Predictor**](#) | Analyzes trends to predict stock movements in 5-minute intervals. | Python, Scikit-Learn | PRIVET |
-| 🏗️ [**kEuRoMo**](#) | A Ecommerce website for Affileate marketing.Use scrolling base shopping | React, Amazon | Currently Close |
-| 📚 [**ProtFolioMaker**](#) | A website where users build there Portfolio for free and without coding. | React, Node.js |
+| 🏗️ [**kEuRoMo**](https://codeehere.github.io/kEuroMo) | A Ecommerce website for Affileate marketing.Use scrolling base shopping | React, Amazon | Currently Close |
+| 📚 [**ProtFolioMaker**](https://ghoshswapnadip7-coder.github.io/PortFolioMaker/) | A website where users build there Portfolio for free and without coding. | React, Node.js |
 
 ---
 
